@@ -1,7 +1,7 @@
 ---
-title: "20260327"
+title: "Hello World!"
 date: '2026-03-27T20:22:47+08:00'
-description: "Hello World! Hello Hugo! Hello Stack! Hello Me!"
+description: "Hello Hugo! Hello Stack! Hello Me!"
 categories: "moments"
 ---
 
