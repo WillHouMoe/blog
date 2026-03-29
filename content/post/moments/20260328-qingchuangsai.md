@@ -1,6 +1,6 @@
 +++
 date = '2026-03-28T17:21:23+08:00'
-title = '青创赛一日游'
+title = '青创赛 Day 1'
 categories = 'moments'
 description = '一无所知地去，一无所获地回。'
 +++

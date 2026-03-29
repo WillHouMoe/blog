@@ -3,11 +3,11 @@ rssFullContent = true
 favicon        = "img/avatar.png"
 
 [footer]
-    since = 2020
+    since = 2026
 
 [sidebar]
-    emoji    = "✏️"
-    subtitle = "这是我的第一行个人简介"
+ #    emoji    = "✏️"
+    subtitle = "别想当然。"
 
     [sidebar.avatar]
         enabled = true
