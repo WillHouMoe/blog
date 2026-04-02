@@ -3,6 +3,7 @@ date = '2026-03-28T17:21:23+08:00'
 title = '青创赛 Day 1'
 categories = 'moments'
 description = '一无所知地去，一无所获地回。'
+slug = 'qingchuangsai-day-1'
 +++
 
 这样讲的主要原因是，呆了一天，应付了三个评委，自习了一个下午。感觉下午组织的有点问题，我们这排数学建模好像基本都闲了一下午。
